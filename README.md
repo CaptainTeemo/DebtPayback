@@ -1,5 +1,5 @@
 # DebtPayback
-Things that should have done for a long time.
+Things should have been done for a long time.
 
 
 ## ADT
