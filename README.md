@@ -11,6 +11,8 @@ Things that should have done for a long time.
 - [X] PriorityQueue
 - [X] MaxHeap
 - [X] LRU
+- [ ] HashTable
+- [ ] RedBlackTree
 
 ## Algorithms
 - [X] MergeSort
